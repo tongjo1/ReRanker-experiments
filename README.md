@@ -1,8 +1,9 @@
 # ReRanker-experiments
 
 This repo plays around with several Reranker implementations for RAG with helpful comparisons on the same benchmarks.
--  Supported:
--  MTEB
+
+Benchmarks:
+-  MTEB (Tasks: AskUbuntuDupQuestions, MindSmallReranking, SciDocsRR, StackOverflowDupQuestions)
 
 
 Environment info:
