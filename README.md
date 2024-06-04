@@ -11,7 +11,7 @@ Benchmarks:
 Environment info:
 - Pytroch 2.3.0, CUDA = 11.8
 
-- Pip installed:
+Pip installed:
 -    FlagEmbedding
 -    MTEB
 -    C_MTEB
