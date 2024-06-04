@@ -6,5 +6,12 @@ Benchmarks:
 -  MTEB (Tasks: AskUbuntuDupQuestions, MindSmallReranking, SciDocsRR, StackOverflowDupQuestions)
 
 
+
+
 Environment info:
 - Pytroch 2.3.0, CUDA = 11.8
+
+- Pip installed:
+    FlagEmbedding
+    C_MTEB
+    MTEB
